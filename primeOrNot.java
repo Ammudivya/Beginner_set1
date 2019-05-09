@@ -22,11 +22,11 @@ public class MyClass {
         }
         if(count == 0)
         {
-            System.out.print("This is a Prime Number");
+            System.out.print("yes");
         }
         else
         {
-            System.out.print("This is not a Prime Number");
+            System.out.print("no");
         }
 }
        
